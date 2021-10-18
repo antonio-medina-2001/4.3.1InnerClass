@@ -17,10 +17,7 @@ import javafx.scene.paint.Color;
 import javafx.scene.shape.Circle;
 import javafx.stage.Stage;
 
-/**
- *
- * @author 34616
- */
+
 public class InnerClass extends Application {
     private Circle circulo;
     @Override
